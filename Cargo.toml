@@ -1,0 +1,10 @@
+[package]
+name = "seerah-rs-hijrah-route-geodesic"
+version = "1.0.0"
+edition = "2021"
+description = "Prophetic Hijrah Route Waypoint Geodesic & Elevation Profiler"
+authors = ["Mahmoud ElNemer <sultanelnemer@gmail.com>"]
+
+[[bin]]
+name = "seerah_rs_hijrah_route_geodesic"
+path = "main.rs"
